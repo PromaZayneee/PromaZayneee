@@ -17,4 +17,4 @@
 ![Verilog](https://img.shields.io/badge/Verilog-black?style=flat)
 
 ### 📊 GitHub Stats
-![Proma's GitHub stats](https://github-readme-stats.vercel.app/api?username=PromaZayneee&show_icons=true&theme=radical)
+![Proma's GitHub stats](https://github-readme-stats.vercel.app/api?username=PromaZayneee&show_icons=true&theme=dark)
