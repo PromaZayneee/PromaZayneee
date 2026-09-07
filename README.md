@@ -1,3 +1,5 @@
+!(https://giffiles.alphacoders.com/222/222957.gif)
+
 ## Hi, I'm Proma 👋
 **PromaZayneee/PromaZayneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,4 @@
 ### 📊 GitHub Stats
 ![Proma's GitHub stats](https://github-readme-stats.vercel.app/api?username=PromaZayneee&show_icons=true&theme=radical)
 
-![Juuzou](https://giffiles.alphacoders.com/189/189351.gif)
+
