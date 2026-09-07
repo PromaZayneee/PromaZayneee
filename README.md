@@ -1,6 +1,6 @@
 ## Hi, I'm Proma 👋
 
-**PromaZayneee/PromaZayneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PromaZayneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Hisoka](https://giffiles.alphacoders.com/222/222957.gif)
 
@@ -17,4 +17,4 @@
 ![Verilog](https://img.shields.io/badge/Verilog-black?style=flat)
 
 ### 📊 GitHub Stats
-![Proma's GitHub stats](https://github-readme-stats.vercel.app/api?username=PromaZayneee&show_icons=true&theme=dark)
+![Proma's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PromaZayneee&show_icons=true&theme=dark)
