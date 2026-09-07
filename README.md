@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
+## Hi, I'm Proma 👋
 **PromaZayneee/PromaZayneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on C projects and learning Verilog (ELEC2141)
+- 🌱 I'm currently learning Verilog, digital logic design, and embedded systems
+- 👯 I'm looking to collaborate on hardware/embedded projects
+- 🤔 I'm looking for help with Verilog and microcontroller basics
+- 💬 Ask me about C, data structures, digital logic
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: NULL DISCONNECTED... System is in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-black?style=flat)
+
+### 📊 GitHub Stats
+![Proma's GitHub stats](https://github-readme-stats.vercel.app/api?username=PromaZayneee&show_icons=true&theme=radical)
+
+![Juuzou](https://giffiles.alphacoders.com/189/189351.gif)
