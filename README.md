@@ -1,6 +1,5 @@
 ## Hi, I'm Proma 👋
 
-**PromaZayneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Hisoka](https://giffiles.alphacoders.com/222/222957.gif)
 
